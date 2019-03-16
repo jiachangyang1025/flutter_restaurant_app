@@ -19,10 +19,10 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
-  flutter_swiper: ^1.1.4
-  flutter_statusbarcolor: ^0.0.3
-  font_awesome_flutter: ^8.1.0
-  flutter_speed_dial: ^1.0.8
+  flutter_swiper: ^1.1.5
+  flutter_statusbarcolor: ^0.2.0
+  font_awesome_flutter: ^8.4.0
+  flutter_speed_dial: ^1.1.1
 
 dev_dependencies:
   flutter_test:
